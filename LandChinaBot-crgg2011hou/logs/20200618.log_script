@@ -1,0 +1,46 @@
+2020-06-18 10:17:23 crgg2011hou_spider.py [line:127] INFO: 北京市页数：1
+2020-06-18 10:18:09 selenium_chrome.py [line:138] INFO: 网页弹出验证码
+2020-06-18 10:18:09 selenium_chrome.py [line:144] INFO: 验证码下载成功
+2020-06-18 10:18:45 selenium_chrome.py [line:138] INFO: 网页弹出验证码
+2020-06-18 10:18:46 selenium_chrome.py [line:144] INFO: 验证码下载成功
+2020-06-18 10:31:31 crgg2011hou_spider.py [line:127] INFO: 上海市页数：1
+2020-06-18 10:32:43 selenium_chrome.py [line:138] INFO: 网页弹出验证码
+2020-06-18 10:32:43 selenium_chrome.py [line:144] INFO: 验证码下载成功
+2020-06-18 14:10:20 crgg2011hou_spider.py [line:127] INFO: 上海市页数：1
+2020-06-18 14:34:38 crgg2011hou_spider.py [line:127] INFO: 上海市页数：1
+2020-06-18 14:42:33 crgg2011hou_spider.py [line:127] INFO: 石家庄市页数：1
+2020-06-18 14:44:53 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 14:45:21 crgg2011hou_spider.py [line:129] INFO: 上海市页数：1
+2020-06-18 14:45:28 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 14:45:55 crgg2011hou_spider.py [line:129] INFO: 唐山市页数：1
+2020-06-18 14:47:19 crgg2011hou_spider.py [line:129] INFO: 秦皇岛市页数：1
+2020-06-18 14:48:09 crgg2011hou_spider.py [line:212] INFO: 地址页数错误:1
+2020-06-18 14:48:09 crgg2011hou_spider.py [line:213] ERROR: ('list index out of range',)
+2020-06-18 14:48:09 crgg2011hou_spider.py [line:129] INFO: 邯郸市页数：1
+2020-06-18 14:50:36 crgg2011hou_spider.py [line:129] INFO: 邢台市页数：1
+2020-06-18 14:52:01 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 14:52:14 selenium_chrome.py [line:138] INFO: 网页弹出验证码
+2020-06-18 14:52:14 selenium_chrome.py [line:144] INFO: 验证码下载成功
+2020-06-18 14:53:22 crgg2011hou_spider.py [line:129] INFO: 唐山市页数：1
+2020-06-18 14:53:39 crgg2011hou_spider.py [line:129] INFO: 秦皇岛市页数：1
+2020-06-18 14:53:55 crgg2011hou_spider.py [line:212] INFO: 地址页数错误:1
+2020-06-18 14:53:55 crgg2011hou_spider.py [line:213] ERROR: ('list index out of range',)
+2020-06-18 14:53:55 crgg2011hou_spider.py [line:129] INFO: 邯郸市页数：1
+2020-06-18 14:54:03 crgg2011hou_spider.py [line:129] INFO: 邢台市页数：1
+2020-06-18 14:54:26 crgg2011hou_spider.py [line:129] INFO: 保定市页数：1
+2020-06-18 14:54:28 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 14:54:49 crgg2011hou_spider.py [line:129] INFO: 唐山市页数：1
+2020-06-18 14:55:01 crgg2011hou_spider.py [line:129] INFO: 秦皇岛市页数：1
+2020-06-18 14:55:26 crgg2011hou_spider.py [line:129] INFO: 上海市页数：1
+2020-06-18 14:57:39 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 15:01:04 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 15:02:19 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 15:02:30 crgg2011hou_spider.py [line:129] INFO: 唐山市页数：1
+2020-06-18 15:03:05 crgg2011hou_spider.py [line:129] INFO: 石家庄市页数：1
+2020-06-18 15:03:17 crgg2011hou_spider.py [line:129] INFO: 唐山市页数：1
+2020-06-18 15:03:31 crgg2011hou_spider.py [line:129] INFO: 秦皇岛市页数：1
+2020-06-18 15:03:40 crgg2011hou_spider.py [line:212] INFO: 地址页数错误:1
+2020-06-18 15:03:40 crgg2011hou_spider.py [line:213] ERROR: ('list index out of range',)
+2020-06-18 15:03:40 crgg2011hou_spider.py [line:129] INFO: 邯郸市页数：1
+2020-06-18 15:03:54 crgg2011hou_spider.py [line:129] INFO: 邢台市页数：1
+2020-06-18 15:04:05 crgg2011hou_spider.py [line:129] INFO: 保定市页数：1

@@ -1,0 +1,23 @@
+2020-07-13 09:56:38 crgg2011hou_spider.py [line:146] INFO: 上海市页数：1
+2020-07-13 09:56:55 selenium_chrome.py [line:138] INFO: 网页弹出验证码
+2020-07-13 09:56:55 selenium_chrome.py [line:144] INFO: 验证码下载成功
+2020-07-13 09:59:37 crgg2011hou_spider.py [line:146] INFO: 上海市页数：2
+2020-07-13 10:01:51 crgg2011hou_spider.py [line:146] INFO: 上海市页数：3
+2020-07-13 10:04:04 crgg2011hou_spider.py [line:146] INFO: 上海市页数：4
+2020-07-13 10:06:41 crgg2011hou_spider.py [line:146] INFO: 上海市页数：5
+2020-07-13 10:08:57 crgg2011hou_spider.py [line:146] INFO: 上海市页数：6
+2020-07-13 10:11:14 crgg2011hou_spider.py [line:146] INFO: 上海市页数：7
+2020-07-13 10:13:43 crgg2011hou_spider.py [line:146] INFO: 上海市页数：8
+2020-07-13 10:16:04 crgg2011hou_spider.py [line:146] INFO: 上海市页数：9
+2020-07-13 10:18:21 crgg2011hou_spider.py [line:146] INFO: 上海市页数：10
+2020-07-13 10:20:46 crgg2011hou_spider.py [line:146] INFO: 上海市页数：11
+2020-07-13 10:23:13 crgg2011hou_spider.py [line:146] INFO: 上海市页数：12
+2020-07-13 14:01:55 crgg2011hou_spider.py [line:146] INFO: 石家庄市页数：1
+2020-07-13 14:02:25 selenium_chrome.py [line:138] INFO: 网页弹出验证码
+2020-07-13 14:02:25 selenium_chrome.py [line:144] INFO: 验证码下载成功
+2020-07-13 14:04:54 crgg2011hou_spider.py [line:228] INFO: 地址页数错误:1
+2020-07-13 14:04:54 crgg2011hou_spider.py [line:229] ERROR: ('list index out of range',)
+2020-07-13 14:04:54 crgg2011hou_spider.py [line:146] INFO: 石家庄市页数：2
+2020-07-13 14:06:31 crgg2011hou_spider.py [line:228] INFO: 地址页数错误:2
+2020-07-13 14:06:31 crgg2011hou_spider.py [line:229] ERROR: ('list index out of range',)
+2020-07-13 14:06:31 crgg2011hou_spider.py [line:146] INFO: 石家庄市页数：3
